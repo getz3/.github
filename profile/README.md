@@ -1,12 +1,19 @@
-# Meet Z3
+# Welcome to Z3 on GitHub
 
-**Minimalist S3 server in Zig with No AI slop.**
+Z3 is a minimalist S3-compatible server written in Zig.
 
-[View on GitHub](https://github.com/getz3/z3)
+It is designed for local development, testing, and lightweight S3-compatible workflows, with a focus on small footprint, fast startup, and simple single-node deployment.
+
+Z3 is in the early stages of active development and is not yet intended for production use.
+
+Visit the website: [getz3.dev](https://getz3.dev/)
+
+## Core Project
+
+- **[Z3](https://github.com/getz3/z3)**  
+  A minimalist S3-compatible server written in Zig, designed for local development, testing, and simple object storage use cases.
 
 ## Why Z3?
-
-Built for the ultimate minimalist S3 experience.
 
 - **Small**
 
@@ -20,33 +27,14 @@ Built for the ultimate minimalist S3 experience.
 
   Built on a multi-role finite state machine with no AI slop.
 
-## Quick Start
+## Get Started
 
-```shell
-# Build
-zig build -Doptimize=ReleaseFast
+Visit the main repository to build, run, and try Z3:
 
-# Run
-./zig-out/bin/z3
+👉 **[github.com/getz3/z3](https://github.com/getz3/z3)**
 
-# Options
-./zig-out/bin/z3 --port=9000 --data-dir=./data --tmp=./tmp
-```
+## Resources
 
-## FAQ
-
-### What is Z3?
-
-Z3 is a minimalist S3 server in Zig, built for local development and testing.
-
-### Is Z3 distributed?
-
-No. Z3 is, and will remain, a single-node server optimized for local development and testing.
-
-### Is Z3 ready for production use?
-
-No. Z3 is in the early stages of active development.
-
-### Why Zig?
-
-Zig compiles to tiny, fast binaries, giving Z3 near-instant boot times and minimal memory usage.
+- **Source Code**: [github.com/getz3/z3](https://github.com/getz3/z3)
+- **Issues & Feedback**: [GitHub Issues](https://github.com/getz3/z3/issues)
+- **License**: MIT
