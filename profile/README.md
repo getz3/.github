@@ -7,7 +7,7 @@ Visit the website: [getz3.dev](https://getz3.dev/)
 ## Core Project
 
 - **[Z3](https://github.com/getz3/z3)**  
-  A minimalist S3-compatible server written in Zig, designed for local development, testing, and simple object storage use cases.
+  A minimalist S3 server in Zig with no AI slop, built for local development and testing.
 
 ## Why Z3?
 
