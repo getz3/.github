@@ -15,17 +15,11 @@ Visit the website: [getz3.dev](https://getz3.dev/)
 
 ## Why Z3?
 
-- **Small**
+- **Small:** Extremely small boot footprint, using less than 2MB of memory.
 
-  Extremely small boot footprint, using less than 2MB of memory.
+- **Fast:** Blazing-fast performance powered by Zig and Async ZIO.
 
-- **Fast**
-
-  Blazing-fast performance powered by Zig and Async ZIO.
-
-- **Clean**
-
-  Built on a multi-role finite state machine with no AI slop.
+- **Clean:** Built on a multi-role finite state machine with no AI slop.
 
 ## Get Started
 
