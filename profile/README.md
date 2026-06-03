@@ -2,10 +2,6 @@
 
 Z3 is a minimalist S3-compatible server written in Zig.
 
-It is designed for local development, testing, and lightweight S3-compatible workflows, with a focus on small footprint, fast startup, and simple single-node deployment.
-
-Z3 is in the early stages of active development and is not yet intended for production use.
-
 Visit the website: [getz3.dev](https://getz3.dev/)
 
 ## Core Project
